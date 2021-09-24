@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"m":"MailRegister","l":"mappe.del3.addressregister"},{"m":"MailRegister","l":"mappe.del3.addressregister.controll.MainController"},{"m":"MailRegister","l":"mappe.del3.addressregister.percistence"},{"m":"MailRegister","l":"mappe.del3.addressregister.ui"}]

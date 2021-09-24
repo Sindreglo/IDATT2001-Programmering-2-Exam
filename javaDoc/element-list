@@ -1,0 +1,5 @@
+module:MailRegister
+mappe.del3.addressregister
+mappe.del3.addressregister.controll.MainController
+mappe.del3.addressregister.percistence
+mappe.del3.addressregister.ui
